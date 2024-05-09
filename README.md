@@ -6,6 +6,7 @@ Me chamo Nemésio, desenvolvedor desde 2023 e sou apaixonado por tecnologias web
 Linguagens:
 
 ![image](https://github.com/NemesioDev/NemesioDev/assets/103794751/94bd5b96-bf53-497b-a215-f065ea2f5570)
+![image](https://camo.githubusercontent.com/6e566eab9ecc03865be6cacc6fb1d7e2a465ddb389328b718f09c088fc7e0be3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3338333333323f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d464645333136)
 ![image](https://github.com/NemesioDev/NemesioDev/assets/103794751/5376e021-0c02-47fd-a065-ff83f7068765)
 ![image](https://github.com/NemesioDev/NemesioDev/assets/103794751/5ba0f2d7-183f-4712-9d44-7b278485fc81)
 ![image](https://github.com/NemesioDev/NemesioDev/assets/103794751/6a0c511c-f3ab-42c2-8a19-a154b81e3b10)
