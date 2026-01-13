@@ -16,9 +16,23 @@ Criação de projetos para portfólio
 
 Estou em busca de uma nova oportunidade para aplicar meus conhecimentos, aprender com desafios reais e crescer profissionalmente dentro da área de tecnologia.
 
-![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/React-333333?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb)
+<h2>🚀 Tecnologias & Ferramentas</h2>
+
+<h3>Front-end</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+</p>
+
+<h3>Back-end</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
+</p>
+
+<h3>Banco de Dados</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
+</p>
+
