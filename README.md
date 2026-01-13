@@ -34,6 +34,6 @@ Estou em busca de uma nova oportunidade para aplicar meus conhecimentos, aprende
 <h3>Banco de Dados</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" />
 </p>
 
